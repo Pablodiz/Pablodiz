@@ -45,10 +45,10 @@ Por mi cuenta, me he formado en:
 Me apasiona la ciberseguridad. Por ello:
 - He participado en varios CTFs y practicado para ellos:
   - C3TF
-  - [CTF CiberGal 2024](https://github.com/Pablodiz/Writeups/CTFCBGAL2024/)
-  - [PicoCTF](https://github.com/Pablodiz/Writeups/picoCTF/)
+  - [CTF CiberGal 2024](https://github.com/Pablodiz/Writeups/tree/main/CTFCBGAL2024/)
+  - [PicoCTF](https://github.com/Pablodiz/Writeups/tree/main/picoCTF/)
 - He practicado técnicas de Hacking Ético con máquinas vulnerables:
-  - [Dockerlabs](https://github.com/Pablodiz/Writeups/Dockerlabs/)
+  - [Dockerlabs](https://github.com/Pablodiz/Writeups/tree/main/Dockerlabs/)
 - He realizado varias pruebas de concepto con Dockers:
   - [DNS Spoofing](https://github.com/Pablodiz/dns_spoofing)
   - [Port Knocking](https://github.com/Pablodiz/port-knocking)
