@@ -1,5 +1,5 @@
 ## Hola, me llamo Pablo
-Soy estudiante de Ingeniería Informática en la UDC. En el grado, he:
+Soy estudiante de Ingeniería Informática en la UDC, más concretamente de la mención de Tecnologías de la Información. En el grado, he:
 
 - Aprendido a programar en varios lenguajes:
 
@@ -12,17 +12,22 @@ Soy estudiante de Ingeniería Informática en la UDC. En el grado, he:
 
 - Usando distintas librerías y frameworks:
   - Python:
-    - Pandas
-    - Django
-    - GTK
+    - Análisis de datos con Pandas 🐼
+    - Aplicaciones web con Django 🎸
+    - Interfaces de usuario con GTK 🖥️ 
   - C:
-    - MPI
-    - Concurrencia con threads.h 
+    - Paralelismo con mpi.h ⚡
+    - Concurrencia con threads.h 🧵 
 
 - Aprendido a administrar sistemas e infraestructuras:
-  - Bases de datos (Oracle)
-  - Sistemas operativos en base UNIX (Solaris, Linux y BSD)
-  - Redes (Packetracer)
+  - Bases de datos <img src="https://e7.pngegg.com/pngimages/383/815/png-clipart-product-design-brand-logo-oracle-corporation-database-server-text-trademark.png" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+  - Sistemas operativos en base UNIX
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/FreeBSD_minimalist_logo.png" title="FreeBSD" alt="FreeBSD" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Oracle_Solaris_logo.svg" title="Solaris" alt="Solaris" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NetBSD.svg/1200px-NetBSD.svg.png" title="NetBSD" alt="NetBSD" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon-thumbnail.png" title="UbuntuServer" alt="UbuntuServer" width="40" height="40"/>&nbsp;
+  <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  - Redes <img src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" title="PacketTracer" alt="PacketTracer" width="40" height="40"/>&nbsp;
 
 Por mi cuenta, me he formado en:
 
@@ -43,17 +48,3 @@ Me apasiona la ciberseguridad. Por ello:
 
 
 
-<!--
-**Pablodiz/Pablodiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
