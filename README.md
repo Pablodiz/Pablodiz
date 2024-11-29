@@ -16,25 +16,25 @@ Soy estudiante de Ingeniería Informática en la UDC, más concretamente de la m
     - Aplicaciones web con Django 🎸
     - Interfaces de usuario con GTK 🖥️ 
   - C:
-    - Paralelismo con mpi.h ⚡
-    - Concurrencia con threads.h 🧵 
+    - Paralelismo con `mpi.h` ⚡
+    - Concurrencia con `threads.h` 🧵 
 
 - Aprendido a administrar sistemas e infraestructuras:
   - Bases de datos:
   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   
-  - Sistemas operativos en base UNIX:     
+  - Sistemas operativos en base UNIX:
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/FreeBSD_minimalist_logo.png" title="FreeBSD" alt="FreeBSD" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Oracle_Solaris_logo.svg" title="Solaris" alt="Solaris" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NetBSD.svg/1200px-NetBSD.svg.png" title="NetBSD" alt="NetBSD" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" title="UbuntuServer" alt="UbuntuServer" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353640/debian.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" title="UbuntuServer" alt="UbuntuServer" width="40" height="40"/>&nbsp;
+      <img src="https://www.svgrepo.com/show/353640/debian.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Oracle_Solaris_logo.svg" title="Solaris" alt="Solaris" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/FreeBSD_minimalist_logo.png" title="FreeBSD" alt="FreeBSD" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/NetBSD.svg/1200px-NetBSD.svg.png" title="NetBSD" alt="NetBSD" width="40" height="40"/>&nbsp;
 
   - Redes:
   
-   <img src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" title="PacketTracer" alt="PacketTracer" width="40" height="40"/>&nbsp;
+      <img src="https://packet-tracer-win.com/images/uploads/2023-12-29/icon-block-doaqi.png" title="PacketTracer" alt="PacketTracer" width="40" height="40"/>&nbsp;
 
 Por mi cuenta, me he formado en:
 
