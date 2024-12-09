@@ -52,6 +52,7 @@ Me apasiona la ciberseguridad. Por ello:
 - He realizado varias pruebas de concepto con Dockers:
   - [DNS Spoofing](https://github.com/Pablodiz/dns_spoofing)
   - [Port Knocking](https://github.com/Pablodiz/port-knocking)
+  - [Keytrap, CVE-2023-50387](https://github.com/Pablodiz/CVE-2023-50387)
 
 
 
